@@ -11,6 +11,8 @@ The project consists of a Jupyter Notebook file (`RetailSalesProject.ipynb`) tha
 3. **Data Preprocessing**
 4. **Exploratory Data Analysis**
 5. **Time Series Analysis**
+6. **Regression Analysis**
+7. **Clustering**
 
 ## Required Libraries
 
@@ -49,7 +51,7 @@ External Dataset from Calendarific was integrated using API Key for analyzing Ho
 
 The analysis includes:
 
-- **Data cleaning and preprocessing**
+- Data cleaning and preprocessing
 - Calculation of additional features such as:
   - Year
   - Is Holiday
